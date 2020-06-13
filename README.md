@@ -2,6 +2,8 @@
 
 This challenge can be found on [CodingChallenge.dev](https://codingchallenge.dev/challenge/travel-website/)
 
+Make sure you‘ve got a GitHub account then fork this repo so you can check out the starter code.
+
 ## Getting started
 
 Before we start coding we have to do a few things.
