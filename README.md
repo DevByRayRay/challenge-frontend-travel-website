@@ -32,7 +32,7 @@ Fork this repo so we can check out the code on your Github account.
 
 ## Level 1
 
--   Use HTML & CSS to build the layout of the Shopping Cart page
+-   Use HTML & CSS to build the layout of the travel website
 -   Use Flexbox and/or Grid to build the layout
 
 ## Level 2
