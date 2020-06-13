@@ -1,0 +1,28 @@
+/* 
+    Your Challenge Start here! Good luck my friend 🤗
+*/
+.challenge {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 1.2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.challenge__desc {
+	width: 350px;
+	height: 150px;
+	padding: 1rem;
+	background: #1f1f1f;
+	color: #fff;
+	text-align: center;
+}
+.challenge__footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #ccc;
+	color: #333;
+	text-align: center;
+	padding: 1rem;
+}

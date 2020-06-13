@@ -1,0 +1,15 @@
+{
+  "name": "challenge-frontend-travel-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DevByRayRay/challenge-frontend-travel-website.git",
+  "author": "Raymon S <raymon@raymonschouwenaar.nl>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
